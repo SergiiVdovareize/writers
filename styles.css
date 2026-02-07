@@ -17,7 +17,6 @@ body {
     padding: 0 2rem;
 }
 
-/* Header */
 .site-header {
     background-color: #ffffff;
     padding: 3rem 0;
@@ -41,7 +40,6 @@ body {
     text-transform: uppercase;
 }
 
-/* Grid */
 .writers-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
